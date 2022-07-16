@@ -1,0 +1,1068 @@
+{
+    "asn": "AS553",
+    "name": "Universitaet Stuttgart",
+    "country": "DE",
+    "allocated": "2002-08-27",
+    "registry": "ripe",
+    "domain": "belwue.de",
+    "num_ips": 2116096,
+    "type": "education",
+    "prefixes": [
+        {
+            "netblock": "129.143.0.0/16",
+            "id": "BELWUE",
+            "name": "BelWue-Koordination",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "belwue.de"
+        },
+        {
+            "netblock": "129.206.0.0/16",
+            "id": "HD-NET",
+            "name": "Ruprecht-Karls-Universitaet Heidelberg",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-heidelberg.de"
+        },
+        {
+            "netblock": "129.69.0.0/16",
+            "id": "LANUS",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "132.230.0.0/16",
+            "id": "FDN",
+            "name": "Freiburg, Germany",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-freiburg.de"
+        },
+        {
+            "netblock": "134.103.0.0/16",
+            "id": "FHTWRT-LAN",
+            "name": "Reutlingen University",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "reutlingen-university.de"
+        },
+        {
+            "netblock": "134.108.0.0/16",
+            "id": "HE-LAN",
+            "name": "University of Applied Sciences",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "th-koeln.de"
+        },
+        {
+            "netblock": "134.155.0.0/16",
+            "id": "RUMEL",
+            "name": "Universitaet Mannheim",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-mannheim.de"
+        },
+        {
+            "netblock": "134.2.0.0/16",
+            "id": "TUENET",
+            "name": "Eberhard Karls Universitaet Tuebingen",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-tuebingen.de"
+        },
+        {
+            "netblock": "134.34.0.0/16",
+            "id": "KISS",
+            "name": "Universitaet Konstanz",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-konstanz.de"
+        },
+        {
+            "netblock": "134.60.0.0/16",
+            "id": "UNI-ULM",
+            "name": "Ulm, Germany",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-ulm.de"
+        },
+        {
+            "netblock": "141.10.0.0/16",
+            "id": "HS-LUDWIGSBURG",
+            "name": "HSOV Ludwigsburg, Germany",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "hs-ludwigsburg.de"
+        },
+        {
+            "netblock": "141.18.0.0/15",
+            "id": "HS-AALEN",
+            "name": "Hochschule Aalen",
+            "country": "DE",
+            "size": "131072",
+            "status": "LEGACY",
+            "domain": "hs-aalen.de"
+        },
+        {
+            "netblock": "141.18.0.0/16",
+            "id": "HS-AALEN",
+            "name": "Hochschule Aalen",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "hs-aalen.de"
+        },
+        {
+            "netblock": "141.19.0.0/16",
+            "id": "FH-TECH-MA",
+            "name": "Mannheim, Germany",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "hs-mannheim.de"
+        },
+        {
+            "netblock": "141.28.0.0/16",
+            "id": "HS-FURTWANGEN",
+            "name": "Hochschule Furtwangen",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "hs-furtwangen.de"
+        },
+        {
+            "netblock": "141.31.0.0/16",
+            "id": "BASTGT",
+            "name": "Duale Hochschule Baden-Wuerttemberg Stuttgart",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "dhbw-stuttgart.de"
+        },
+        {
+            "netblock": "141.37.0.0/16",
+            "id": "FH-KN",
+            "name": "Hochschule Konstanz Technik, Wirtschaft und Gestaltung",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "htwg-konstanz.de"
+        },
+        {
+            "netblock": "141.47.0.0/16",
+            "id": "FHW-PF",
+            "name": "Pforzheim, Germany",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "hs-pforzheim.de"
+        },
+        {
+            "netblock": "141.58.0.0/15",
+            "id": "HS-ULM",
+            "name": "Hochschule Ulm",
+            "country": "DE",
+            "size": "131072",
+            "status": "LEGACY",
+            "domain": "hs-ulm.de"
+        },
+        {
+            "netblock": "141.58.0.0/16",
+            "id": "LANUS",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "141.59.0.0/16",
+            "id": "HS-ULM",
+            "name": "Hochschule Ulm",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "hs-ulm.de"
+        },
+        {
+            "netblock": "141.62.0.0/16",
+            "id": "HDM-STUTTGART",
+            "name": "Stuttgart, Germany",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "hdm-stuttgart.de"
+        },
+        {
+            "netblock": "141.62.0.0/17",
+            "id": "HDM-STUTTGART",
+            "name": "Stuttgart, Germany",
+            "country": "DE",
+            "size": "32768",
+            "status": "LEGACY",
+            "domain": "hdm-stuttgart.de"
+        },
+        {
+            "netblock": "141.68.0.0/15",
+            "id": "RAVE",
+            "name": "University of Applied Sciences",
+            "country": "DE",
+            "size": "131072",
+            "status": "LEGACY",
+            "domain": "th-koeln.de"
+        },
+        {
+            "netblock": "141.68.0.0/16",
+            "id": "BA-RV",
+            "name": "Duale Hochschule Baden-Wuerttemberg Ravensburg",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "dhbw-ravensburg.de"
+        },
+        {
+            "netblock": "141.69.0.0/16",
+            "id": "RAVE",
+            "name": "University of Applied Sciences",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "th-koeln.de"
+        },
+        {
+            "netblock": "141.70.0.0/16",
+            "id": "LANUS",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "141.7.0.0/16",
+            "id": "FH-HN",
+            "name": "Hochschule Heilbronn",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "hs-heilbronn.de"
+        },
+        {
+            "netblock": "141.70.128.0/17",
+            "id": "LANUS",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "32768",
+            "status": "LEGACY",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "141.72.0.0/16",
+            "id": "DHBW-MANNHEIM",
+            "name": "Duale Hochschule Baden-Wuerttemberg Mannheim",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "dhbw-mannheim.de"
+        },
+        {
+            "netblock": "141.72.0.0/17",
+            "id": "DHBW-MANNHEIM",
+            "name": "Duale Hochschule Baden-Wuerttemberg Mannheim",
+            "country": "DE",
+            "size": "32768",
+            "status": "LEGACY",
+            "domain": "dhbw-mannheim.de"
+        },
+        {
+            "netblock": "141.72.128.0/18",
+            "id": "DHBW-MANNHEIM",
+            "name": "Duale Hochschule Baden-Wuerttemberg Mannheim",
+            "country": "DE",
+            "size": "16384",
+            "status": "LEGACY",
+            "domain": "dhbw-mannheim.de"
+        },
+        {
+            "netblock": "141.79.0.0/16",
+            "id": "HS-OFFENBURG",
+            "name": "Offenburg, Germany",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "hs-offenburg.de"
+        },
+        {
+            "netblock": "141.87.0.0/16",
+            "id": "HS-ALBSIG",
+            "name": "Hochschule Albstadt-Sigmaringen",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "fh-albsig.de"
+        },
+        {
+            "netblock": "144.41.0.0/16",
+            "id": "HONET",
+            "name": "Computing Centre (620)",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-hohenheim.de"
+        },
+        {
+            "netblock": "147.142.0.0/16",
+            "id": "HD-BNET",
+            "name": "Ruprecht-Karls-Universitaet Heidelberg",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-heidelberg.de"
+        },
+        {
+            "netblock": "153.96.83.0/24",
+            "id": "FRAUNHOFER-INTRANET-96",
+            "name": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+            "country": "DE",
+            "size": "256",
+            "status": "LEGACY",
+            "domain": "fraunhofer.de"
+        },
+        {
+            "netblock": "161.42.0.0/16",
+            "id": "KHD-NET",
+            "name": "Universitaetsklinikum Heidelberg",
+            "country": "DE",
+            "size": "65536",
+            "status": "LEGACY",
+            "domain": "uni-heidelberg.de"
+        },
+        {
+            "netblock": "185.134.84.0/22",
+            "id": "DE-SELFNET-20160113",
+            "name": "Selfnet e.V.",
+            "country": "DE",
+            "size": "1024",
+            "status": "ALLOCATED PA",
+            "domain": "selfnet.de"
+        },
+        {
+            "netblock": "192.108.35.0/24",
+            "id": "LANUS",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "256",
+            "status": "LEGACY",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "192.108.36.0/22",
+            "id": "LANUS",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "1024",
+            "status": "LEGACY",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "192.108.40.0/22",
+            "id": "LANUS",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "1024",
+            "status": "LEGACY",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "192.108.44.0/24",
+            "id": "LANUS",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "256",
+            "status": "LEGACY",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "192.109.76.0/24",
+            "id": "SELRC-LAN",
+            "name": "Forschungszentrum",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PI",
+            "domain": "fz-juelich.de"
+        },
+        {
+            "netblock": "192.42.143.0/24",
+            "id": "WSI",
+            "name": "Eberhard Karls Universitaet Tuebingen",
+            "country": "DE",
+            "size": "256",
+            "status": "LEGACY",
+            "domain": "uni-tuebingen.de"
+        },
+        {
+            "netblock": "192.52.0.0/19",
+            "id": "FDN-NETS",
+            "name": "Freiburg, Germany",
+            "country": "DE",
+            "size": "8192",
+            "status": "LEGACY",
+            "domain": "uni-freiburg.de"
+        },
+        {
+            "netblock": "192.52.32.0/20",
+            "id": "FDN-NETS",
+            "name": "Freiburg, Germany",
+            "country": "DE",
+            "size": "4096",
+            "status": "LEGACY",
+            "domain": "uni-freiburg.de"
+        },
+        {
+            "netblock": "192.52.48.0/23",
+            "id": "FDN-NET49",
+            "name": "Albert-Ludwigs-Universitaet Freiburg",
+            "country": "DE",
+            "size": "512",
+            "status": "LEGACY",
+            "domain": "uni-freiburg.de"
+        },
+        {
+            "netblock": "192.52.50.0/24",
+            "id": "FDN-NET51",
+            "name": "Albert-Ludwigs-Universitaet Freiburg",
+            "country": "DE",
+            "size": "256",
+            "status": "LEGACY",
+            "domain": "uni-freiburg.de"
+        },
+        {
+            "netblock": "192.67.208.0/24",
+            "id": "BELWUE",
+            "name": "BelWue",
+            "country": "DE",
+            "size": "256",
+            "status": "LEGACY",
+            "domain": "belwue.de"
+        },
+        {
+            "netblock": "193.196.0.0/15",
+            "id": "DE-BELWUE-193-196-193-197",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "131072",
+            "status": "ALLOCATED PA",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "193.196.0.0/21",
+            "id": "HOCHSCHULE_BIBERACH",
+            "name": "Hochschule Biberach",
+            "country": "DE",
+            "size": "2048",
+            "status": "ASSIGNED PA",
+            "domain": "hochschule-bc.de"
+        },
+        {
+            "netblock": "193.196.129.0/24",
+            "id": "FA-LUDWIGSBURG",
+            "name": "Filmakademie Baden-Wuerttemberg GmbH",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "filmakademie.de"
+        },
+        {
+            "netblock": "193.196.13.0/24",
+            "id": "RUMEL-C",
+            "name": "Universitaet Mannheim",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "uni-mannheim.de"
+        },
+        {
+            "netblock": "193.196.132.0/22",
+            "id": "FH-NUERTINGEN",
+            "name": "Hochschule fuer Wirtschaft und Umwelt Nuertingen-Geislingen",
+            "country": "DE",
+            "size": "1024",
+            "status": "ASSIGNED PA",
+            "domain": "hfwu.de"
+        },
+        {
+            "netblock": "193.196.136.0/21",
+            "id": "HFT-STUTTGART",
+            "name": "Hochschule fuer Technik",
+            "country": "DE",
+            "size": "2048",
+            "status": "ASSIGNED PA",
+            "domain": "hft-stuttgart.de"
+        },
+        {
+            "netblock": "193.196.144.0/21",
+            "id": "PH-LUDWIGSBURG",
+            "name": "Paedagogische Hochschule Ludwigsburg",
+            "country": "DE",
+            "size": "2048",
+            "status": "ASSIGNED PA",
+            "domain": "ph-ludwigsburg.de"
+        },
+        {
+            "netblock": "193.196.152.0/24",
+            "id": "LANUS",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "193.196.154.0/23",
+            "id": "HWW",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "512",
+            "status": "ASSIGNED PA",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "193.196.156.0/22",
+            "id": "PH-GMUEND",
+            "name": "Paedagogische Hochschule Schwaebisch Gmuend",
+            "country": "DE",
+            "size": "1024",
+            "status": "ASSIGNED PA",
+            "domain": "ph-gmuend.de"
+        },
+        {
+            "netblock": "193.196.160.0/22",
+            "id": "PH-FREIBURG",
+            "name": "Paedagogische Hochschule Freiburg",
+            "country": "DE",
+            "size": "1024",
+            "status": "ASSIGNED PA",
+            "domain": "ph-freiburg.de"
+        },
+        {
+            "netblock": "193.196.16.0/20",
+            "id": "TUENET",
+            "name": "Eberhard-Karls-Universitaet",
+            "country": "DE",
+            "size": "4096",
+            "status": "ASSIGNED PA",
+            "domain": "uni-tuebingen.de"
+        },
+        {
+            "netblock": "193.196.165.0/24",
+            "id": "MH-STUTTGART",
+            "name": "Staatliche Hochschule fuer Musik und Darstellende Kunst Stuttgart",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "mh-stuttgart.de"
+        },
+        {
+            "netblock": "193.196.166.0/23",
+            "id": "WLB-STUTTGART",
+            "name": "Wuerttembergische Landesbibliothek",
+            "country": "DE",
+            "size": "512",
+            "status": "ASSIGNED PA",
+            "domain": "wlb-stuttgart.de"
+        },
+        {
+            "netblock": "193.196.168.0/21",
+            "id": "DHBW-HEIDENHEIM",
+            "name": "Duale Hochschule Baden-Wuerttemberg Heidenheim",
+            "country": "DE",
+            "size": "2048",
+            "status": "ASSIGNED PA",
+            "domain": "dhbw-heidenheim.de"
+        },
+        {
+            "netblock": "193.196.176.0/20",
+            "id": "BA-LOERRACH",
+            "name": "Duale Hochschule Baden-Wuerttemberg Loerrach",
+            "country": "DE",
+            "size": "4096",
+            "status": "ASSIGNED PA",
+            "domain": "dhbw-loerrach.de"
+        },
+        {
+            "netblock": "193.196.192.0/18",
+            "id": "UNIFR-KLINIK",
+            "name": "Universitaetsklinikum Freiburg",
+            "country": "DE",
+            "size": "16384",
+            "status": "ASSIGNED PA",
+            "domain": "uniklinik-freiburg.de"
+        },
+        {
+            "netblock": "193.196.64.0/18",
+            "id": "FH-KARLSRUHE",
+            "name": "Hochschule Karlsruhe",
+            "country": "DE",
+            "size": "16384",
+            "status": "ASSIGNED PA",
+            "domain": "h-ka.de"
+        },
+        {
+            "netblock": "193.196.9.0/24",
+            "id": "ZI-MANNHEIM",
+            "name": "Zentralinstitut fuer Seelische Gesundheit Mannheim",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "zi-mannheim.de"
+        },
+        {
+            "netblock": "193.197.0.0/24",
+            "id": "DE-BELWUE-193-196-193-197",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "256",
+            "status": "ALLOCATED PA",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "193.197.120.0/21",
+            "id": "PH-HEIDELBERG",
+            "name": "Paedagogische Hochschule Heidelberg",
+            "country": "DE",
+            "size": "2048",
+            "status": "ASSIGNED PA",
+            "domain": "ph-heidelberg.de"
+        },
+        {
+            "netblock": "193.197.130.0/24",
+            "id": "MH-TROSSINGEN",
+            "name": "Staatliche Hochschule fuer Musik Trossingen",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "mh-trossingen.de"
+        },
+        {
+            "netblock": "193.197.132.0/22",
+            "id": "PH-FREIBURG",
+            "name": "Paedagogische Hochschule Freiburg",
+            "country": "DE",
+            "size": "1024",
+            "status": "ASSIGNED PA",
+            "domain": "ph-freiburg.de"
+        },
+        {
+            "netblock": "193.197.136.0/21",
+            "id": "PH-FREIBURG",
+            "name": "Paedagogische Hochschule Freiburg",
+            "country": "DE",
+            "size": "2048",
+            "status": "ASSIGNED PA",
+            "domain": "ph-freiburg.de"
+        },
+        {
+            "netblock": "193.197.149.0/24",
+            "id": "HPCN",
+            "name": "HLRS",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "hlrs.de"
+        },
+        {
+            "netblock": "193.197.152.0/22",
+            "id": "HFT-STUTTGART",
+            "name": "Hochschule fuer Technik",
+            "country": "DE",
+            "size": "1024",
+            "status": "ASSIGNED PA",
+            "domain": "hft-stuttgart.de"
+        },
+        {
+            "netblock": "193.197.157.0/24",
+            "id": "ABK-STUTTGART",
+            "name": "Staatliche Akademie der Bildenden Kuenste Stuttgart",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "abk-stuttgart.de"
+        },
+        {
+            "netblock": "193.197.160.0/23",
+            "id": "HFG-KARLSRUHE",
+            "name": "Staatliche Hochschule fuer Gestaltung Karlsruhe",
+            "country": "DE",
+            "size": "512",
+            "status": "ASSIGNED PA",
+            "domain": "hfg-karlsruhe.de"
+        },
+        {
+            "netblock": "193.197.168.0/21",
+            "id": "ZKM-KARLSRUHE",
+            "name": "Zentrum fuer Kunst und Medientechnologie (ZKM)",
+            "country": "DE",
+            "size": "2048",
+            "status": "ASSIGNED PA",
+            "domain": "zkm.de"
+        },
+        {
+            "netblock": "193.197.180.0/22",
+            "id": "PH-KARLSRUHE",
+            "name": "Paedagogische Hochschule Karlsruhe",
+            "country": "DE",
+            "size": "1024",
+            "status": "ASSIGNED PA",
+            "domain": "ph-karlsruhe.de"
+        },
+        {
+            "netblock": "193.197.200.0/21",
+            "id": "HFT-STUTTGART",
+            "name": "Hochschule fuer Technik",
+            "country": "DE",
+            "size": "2048",
+            "status": "ASSIGNED PA",
+            "domain": "hft-stuttgart.de"
+        },
+        {
+            "netblock": "193.197.20.0/23",
+            "id": "DE-BELWUE-193-196-193-197",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "512",
+            "status": "ALLOCATED PA",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "193.197.212.0/24",
+            "id": "HSZ-REUTLINGEN",
+            "name": "Hochschulservicezentrum",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "hsz-bw.de"
+        },
+        {
+            "netblock": "193.197.224.0/19",
+            "id": "PH-WEINGARTEN",
+            "name": "Paedagogische Hochschule Weingarten",
+            "country": "DE",
+            "size": "8192",
+            "status": "ASSIGNED PA",
+            "domain": "ph-weingarten.de"
+        },
+        {
+            "netblock": "193.197.28.0/22",
+            "id": "BSZ-BW",
+            "name": "Bibliotheksservice-Zentrum Baden-Wuerttemberg (BSZ)",
+            "country": "DE",
+            "size": "1024",
+            "status": "ASSIGNED PA",
+            "domain": "bsz-bw.de"
+        },
+        {
+            "netblock": "193.197.32.0/19",
+            "id": "PH-WEINGARTEN",
+            "name": "Paedagogische Hochschule Weingarten",
+            "country": "DE",
+            "size": "8192",
+            "status": "ASSIGNED PA",
+            "domain": "ph-weingarten.de"
+        },
+        {
+            "netblock": "193.197.4.0/23",
+            "id": "PH-LUDWIGSBURG",
+            "name": "Paedagogische Hochschule Ludwigsburg",
+            "country": "DE",
+            "size": "512",
+            "status": "ASSIGNED PA",
+            "domain": "ph-ludwigsburg.de"
+        },
+        {
+            "netblock": "193.197.64.0/22",
+            "id": "UNI-ULM",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "1024",
+            "status": "ASSIGNED PA",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "193.197.68.0/23",
+            "id": "PH-WEINGARTEN",
+            "name": "Paedagogische Hochschule Weingarten",
+            "country": "DE",
+            "size": "512",
+            "status": "ASSIGNED PA",
+            "domain": "ph-weingarten.de"
+        },
+        {
+            "netblock": "193.197.70.0/24",
+            "id": "DE-BELWUE-193-196-193-197",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "256",
+            "status": "ALLOCATED PA",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "193.197.80.0/22",
+            "id": "PH-KARLSRUHE",
+            "name": "Paedagogische Hochschule Karlsruhe",
+            "country": "DE",
+            "size": "1024",
+            "status": "ASSIGNED PA",
+            "domain": "ph-karlsruhe.de"
+        },
+        {
+            "netblock": "193.197.8.0/22",
+            "id": "BA-MOS",
+            "name": "DHBW Mosbach",
+            "country": "DE",
+            "size": "1024",
+            "status": "ASSIGNED PA",
+            "domain": "dhbw-mosbach.de"
+        },
+        {
+            "netblock": "193.197.85.0/24",
+            "id": "MH-KARLSRUHE",
+            "name": "Staatliche Hochschule fuer Musik Karlsruhe",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "hfm-karlsruhe.de"
+        },
+        {
+            "netblock": "193.197.86.0/23",
+            "id": "BLB-KARLSRUHE",
+            "name": "Badische Landesbibliothek",
+            "country": "DE",
+            "size": "512",
+            "status": "ASSIGNED PA",
+            "domain": "blb-karlsruhe.de"
+        },
+        {
+            "netblock": "193.197.94.0/24",
+            "id": "MH-MANNHEIM",
+            "name": "Staatliche Hochschule fuer Musik und Darstellende Kunst Mannheim",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "muho-mannheim.de"
+        },
+        {
+            "netblock": "45.12.171.0/24",
+            "id": "VERSCHWOERHAUS_LEGACY_IP",
+            "name": "Benedikt Neuffer",
+            "country": "DE",
+            "size": "256",
+            "status": "ASSIGNED PA",
+            "domain": "verschwoerhaus.de"
+        },
+        {
+            "netblock": "45.90.132.0/22",
+            "id": "DE-SELFNET-20190625",
+            "name": "Selfnet e.V.",
+            "country": "DE",
+            "size": "1024",
+            "status": "ALLOCATED PA",
+            "domain": "selfnet.de"
+        }
+    ],
+    "prefixes6": [
+        {
+            "netblock": "2001:7c0::/29",
+            "id": "DE-BELWUE-20121001",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "633825300114114700748351602688",
+            "status": "ALLOCATED-BY-RIR",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "2001:7c0::/32",
+            "id": "DE-BELWUE-20121001",
+            "name": "Universitaet Stuttgart",
+            "country": "DE",
+            "size": "79228162514264337593543950336",
+            "status": "ALLOCATED-BY-RIR",
+            "domain": "uni-stuttgart.de"
+        },
+        {
+            "netblock": "2a06:ec00::/29",
+            "id": "DE-SELFNET-20160113",
+            "name": "Selfnet e.V.",
+            "country": "DE",
+            "size": "633825300114114700748351602688",
+            "status": "ALLOCATED-BY-RIR",
+            "domain": "selfnet.de"
+        },
+        {
+            "netblock": "2a0e:3c0::/29",
+            "id": "DE-SELFNET-20190626",
+            "name": "Selfnet e.V.",
+            "country": "DE",
+            "size": "633825300114114700748351602688",
+            "status": "ALLOCATED-BY-RIR",
+            "domain": "selfnet.de"
+        }
+    ],
+    "peers": [
+        "174",
+        "6939",
+        "1299",
+        "3320",
+        "680",
+        "140731",
+        "3356",
+        "31019",
+        "57463",
+        "58511",
+        "18106",
+        "52320",
+        "6461",
+        "559",
+        "20932",
+        "25091",
+        "24482",
+        "6667",
+        "9002",
+        "36351",
+        "28917",
+        "20764",
+        "8359",
+        "8447",
+        "8218",
+        "47147",
+        "13030",
+        "47692",
+        "48362",
+        "51184",
+        "59890",
+        "8220",
+        "8708",
+        "9050",
+        "37100",
+        "5713",
+        "12779",
+        "15605",
+        "20811",
+        "51185",
+        "60501",
+        "35280",
+        "56665",
+        "29075",
+        "200780",
+        "35360",
+        "16347",
+        "30781",
+        "6695",
+        "34019",
+        "13786",
+        "1828",
+        "28186",
+        "264479",
+        "3303",
+        "15547",
+        "137409",
+        "8298",
+        "8758",
+        "198385",
+        "9044",
+        "58299",
+        "29691",
+        "1836",
+        "34549",
+        "39351",
+        "1239",
+        "25160",
+        "39122",
+        "3214",
+        "9009",
+        "8732",
+        "35598",
+        "31133",
+        "6233",
+        "14061",
+        "206356",
+        "207613",
+        "209102",
+        "210937",
+        "213151",
+        "24961",
+        "25220",
+        "29140",
+        "34288",
+        "35710",
+        "37721",
+        "48166",
+        "48646",
+        "50629",
+        "48919",
+        "49697",
+        "57695",
+        "58057",
+        "64475",
+        "13237",
+        "56662",
+        "24724",
+        "17639",
+        "48858",
+        "212508",
+        "49605",
+        "1267",
+        "34177",
+        "8426",
+        "4455",
+        "34927",
+        "12470",
+        "205112",
+        "34854",
+        "21412",
+        "30844",
+        "42708",
+        "31025",
+        "15830"
+    ],
+    "upstreams": [
+        "1299",
+        "174",
+        "3320",
+        "3356",
+        "6461",
+        "1239"
+    ],
+    "downstreams": [
+        "1299",
+        "49488",
+        "35052",
+        "1239",
+        "34878",
+        "3320",
+        "3356",
+        "6461",
+        "42873",
+        "50964",
+        "49739",
+        "204680",
+        "202113",
+        "212522",
+        "5501",
+        "60824",
+        "39100",
+        "29010"
+    ]
+}

@@ -1,6 +1,8 @@
 [submodule "anomaly_detectors/loglizer"]
 	path = anomaly_detectors/loglizer
 	url = git@github.com:gutjuri/loglizer.git
+	branch = optim
 [submodule "anomaly_detectors/DeepLog"]
 	path = anomaly_detectors/DeepLog
 	url = git@github.com:gutjuri/DeepLog.git
+	branch = cleaner-code
