@@ -1,0 +1,6 @@
+[submodule "anomaly_detectors/loglizer"]
+	path = anomaly_detectors/loglizer
+	url = git@github.com:gutjuri/loglizer.git
+[submodule "anomaly_detectors/DeepLog"]
+	path = anomaly_detectors/DeepLog
+	url = git@github.com:gutjuri/DeepLog.git
